@@ -1,2 +1,2 @@
 # alien_invasion_project
- an alien invasion game created via Pygame
+ An alien invasion game created via Python3 and runs on Pygame.
